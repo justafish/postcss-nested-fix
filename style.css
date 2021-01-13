@@ -1,15 +1,8 @@
-.section,
-&__top,
-.section__top {
-  margin: 0;
-  padding: 0;
-  border: 0;
-}
-
-  .section {
+.section {
   color: red;
-}
 
-  .section__top {
+  &__top {
     color: blue;
   }
+}
+

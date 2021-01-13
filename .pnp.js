@@ -3014,7 +3014,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["postcss-autoreset", [
         ["npm:3.0.3", {
-          "packageLocation": "./.yarn/cache/postcss-autoreset-npm-3.0.3-67ddde4e32-e585f33d52.zip/node_modules/postcss-autoreset/",
+          "packageLocation": "./.yarn/unplugged/postcss-autoreset-npm-3.0.3-67ddde4e32/node_modules/postcss-autoreset/",
           "packageDependencies": [
             ["postcss-autoreset", "npm:3.0.3"],
             ["postcss-js", "npm:3.0.3"]

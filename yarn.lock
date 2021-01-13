@@ -2651,6 +2651,8 @@ fsevents@^1.2.7:
     postcss-autoreset: ^3.0.3
     postcss-nested: ^5.0.3
   dependenciesMeta:
+    postcss-autoreset@3.0.3:
+      unplugged: true
     postcss-nested@5.0.3:
       unplugged: true
   languageName: unknown
