@@ -1,0 +1,15 @@
+.section,
+&__top,
+.section__top {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+  .section {
+  color: red;
+}
+
+  .section__top {
+    color: blue;
+  }
